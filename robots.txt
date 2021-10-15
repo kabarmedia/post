@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://kabarmedia.github.io/post/sitemap.xml
